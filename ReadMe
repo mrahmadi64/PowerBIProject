@@ -1,5 +1,5 @@
 Project Overview
-This repository contains the implementation of a Sales Dashboard for the AdventureWorksDW2019 dataset, focusing on Reseller Sales.
+This repository contains the implementation of a Sales Dashboard for the AdventureWorksDW2019 dataset, focusing on Sales.
 The dashboard provides key performance indicators (KPIs) and visualizations that help analyze the sales performance across different dimensions such as Sales, resellers, products, geographic regions, and time periods.
 The purpose of this project is to showcase data analysis and visualization skills, particularly in sales analytics, using Power BI and DAX.
 - Power BI Desktop Microsoft - Ver Sep 2024
